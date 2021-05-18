@@ -1,4 +1,4 @@
-# Awesome writing tips ![Awesome writing tips](https://github.com/sindresorhus/awesome/blob/main/media/logo.svg)
+# [Awesome writing tips]
 Compiled resources for writing both papers and thesis I found along the way of my writing journey
 
 - [tweet](https://twitter.com/animesh_garg/status/1394294886073913353?s=20)
